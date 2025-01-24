@@ -149,7 +149,7 @@ const projects = [
     id: "project-1",
     name: "Azure DevOps",
     description: "",
-    image: "./assets/certificates/Azure-foundations.png",
+    image:  foundation,
     repo: "#",
     demo: "https://drive.google.com/file/d/1BtwKCnZUzu4Bp1G9J98F2l9ITOjdr1Ep/view?usp=drive_link",
   },

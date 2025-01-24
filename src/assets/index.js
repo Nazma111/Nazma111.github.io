@@ -43,7 +43,7 @@ import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
 
-import foundation from "./certificates/aws-academy-cloud-foundations.png";
+import foundation from "./certificates/aws-academy-cloud-foundation.png";
 import practitioner from "./certificates/aws-certified-cloud-practitioner.png";
 import azure from "./certificates/azure.png";
 import deloitte from "./certificates/deloitte.png";
